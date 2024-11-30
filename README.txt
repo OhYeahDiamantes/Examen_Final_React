@@ -56,6 +56,7 @@ Asegurarse de tener instalados en el sistema:
 - [Node.js](https://nodejs.org/) (versión más actual)
 - [npm](https://www.npmjs.com/)
 - [react] (https://es.react.dev/learn/installation)
+- Tn¿ener instalada una fuente en específico (Esta se encuentra en el mismo repositorio como un archivo .zip)
 
 2. Descargar los archivos que están en el repositorio.
 3. Abrir el símbolo del sistema, escribir cd + (directorio del archivo) y luego npm run dev o npm start, le aparecerá un link localhost, cópielo y péguelo en su navegador.
