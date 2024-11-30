@@ -1,3 +1,5 @@
+IMPORTANTE: Entrar al siguiente link de Drive para descargar el archivo: https://drive.google.com/file/d/1T-lvml1aeOO9bgMOOOiwPY-6Yrh1SoXg/view?usp=drive_link
+
 Virtual Art Gallery - Karol Bolívar.
 
 Virtual Art Gallery es una aplicación web interactiva desarrollada con React, Three.js y Material-UI. La aplicación simula una galería de arte virtual donde los usuarios pueden explorar piezas de arte 3D, interactuar con ellas y dejar comentarios. Además, cuenta con una sección de contacto para enviar mensajes y una página de inicio animada.
@@ -56,7 +58,7 @@ Asegurarse de tener instalados en el sistema:
 - [react] (https://es.react.dev/learn/installation)
 
 2. Descargar los archivos que están en el repositorio.
-3. Abrir el símbolo del sistema, escribir cd + (directorio del archivo) y luego npm run dev o npm start.
+3. Abrir el símbolo del sistema, escribir cd + (directorio del archivo) y luego npm run dev o npm start, le aparecerá un link localhost, cópielo y péguelo en su navegador.
 --Para instalar librerías, poner npm install + (nombre de la librería)
 
 ---
@@ -64,8 +66,6 @@ Asegurarse de tener instalados en el sistema:
 -- Personalización
 Si desea modificar la aplicación, tenga en cuenta que:
 
-Los estilos personalizados están en la carpeta components.
-Las piezas de arte 3D utilizan archivos .glb. Puede reemplazarlos en public/ y actualizarlos en los archivos ArtPiece.
-Los comentarios se almacenan temporalmente en localStorage.
-
-
+-Los estilos personalizados están en la carpeta components.
+-Las piezas de arte 3D utilizan archivos .glb. Puede reemplazarlos en public/ y actualizarlos en los archivos ArtPiece.
+-Los comentarios se almacenan temporalmente en localStorage.
